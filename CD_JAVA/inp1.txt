@@ -1,0 +1,26 @@
+import java.util.*;
+class Person 
+{
+    private static int age;
+    private String name;   
+    public static void main() 
+    {
+       int temp, vance;
+       name = "John";
+       age = 30;
+       temp = age + 20.8734 -983247 /93284%8273*3874.938;
+    }
+    protected
+    char
+    float
+    double
+    String
+    boolean
+    void
+
+    '7'
+    "wejgf783DS[]\.'"
+    true
+    false
+    ''
+}

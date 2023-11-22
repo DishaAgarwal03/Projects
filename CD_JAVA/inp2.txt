@@ -1,0 +1,18 @@
+import java.util.*;
+class Person 
+{
+    private static int age;
+    private String name;
+    char ch = 'A';  
+    public static void main() 
+    {
+       int temp;
+       String name= "John";
+       age = 30;
+       temp = age + 20;
+    } 
+    char send(int b, char c)
+    {
+        int t=b+c;
+    }
+}
